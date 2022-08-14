@@ -1,4 +1,4 @@
-# mandelbrot-set
+# Mandelbrto Set
 
 The mandelbrot set is a fractal created by calculating the boundary of stability over iterations. 
 
